@@ -65,7 +65,10 @@ Perform the following tasks:
 
 ## References
 Dataset created by the United States Geological SurveyLinks to an external site.
+- https://leafletjs.com/reference.html
 - https://leafletjs.com/examples/choropleth/
+- Bootcamp Tutor
+- Classmates
 
 ## Copyright
 © 2024 edX Boot Camps LLC
